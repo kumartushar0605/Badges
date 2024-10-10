@@ -7,6 +7,7 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 
+
 const Home = () => {
   return (
     <>
